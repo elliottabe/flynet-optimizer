@@ -1,0 +1,21 @@
+[build-system]
+requires = [
+    "setuptools >= 61.0.0", 
+    "scikit-build >= 0.17.6",
+    "cmake >= 3.25",
+]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "flynet-optimzer"
+version = "0.1.0"
+authors = [{name = "Johan Melis", email="Johan.melis@gmail.com"}] 
+description = "Optimizer extension module for Johan Miles's flynet"
+license = "MIT"
+requires-python = ">= 3.10,<3.13"
+
+dependencies = [
+    "numpy ~= 1.23",
+]
+
+
