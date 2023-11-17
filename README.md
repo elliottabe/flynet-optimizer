@@ -1,4 +1,11 @@
-## flynet-optimizer
+![header](images/flynet_optimizer_header.png)
 
-Optimizer extension module for Johan Miles's flynet. 
+Particle swarm optimization extension module for flynet software from Miles
+and Dickinson 2023. 
+
+
+### Installation
+
+TO DO
+
 
